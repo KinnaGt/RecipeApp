@@ -1,6 +1,7 @@
-# recipeapp
+# RecipeApp
 
-A new Flutter project.
+![RecipeApp](https://user-images.githubusercontent.com/81035527/149623740-600d9ca0-bbae-4220-a3ee-d0e0f87eb523.png)
+
 
 ## Getting Started
 
